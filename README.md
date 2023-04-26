@@ -90,7 +90,7 @@
 </p>
 
 
-[![@tanisha12's Holopin board](https://holopin.me/tanisha12)](https://holopin.io/@tanisha12)
+[![@tanisha12's Holopin board](https://holopin.io/api/user/board?user=tanisha12)](https://holopin.io/@tanisha12)
 
 
 That's it! Thank you for checking out my profile and reading through all of that.😅😅 
