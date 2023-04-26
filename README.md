@@ -64,8 +64,6 @@
 </p>
 
 </br>
-##  My Badges:
-[![An image of @tanisha12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanisha12)](https://holopin.io/@tanisha12)
 
 
 ## 🪐My Socials:
@@ -90,6 +88,14 @@
     <img src="https://img.shields.io/github/followers/tanishagupta0811?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
+
+
+[![@tanisha12's Holopin board](https://holopin.io/api/user/board?user=tanisha12)](https://holopin.io/@tanisha12)
+
+
+That's it! Thank you for checking out my profile and reading through all of that.😅😅 
+Have a wonderful day ahead! 😄😄😊😊
+-Tanisha
 
 
 
